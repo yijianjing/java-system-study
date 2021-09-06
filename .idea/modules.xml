@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-system-study.iml" filepath="$PROJECT_DIR$/.idea/java-system-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-rocketmq-code/rocketmq-javaapi/rocketmq-javaapi.iml" filepath="$PROJECT_DIR$/mq-rocketmq-code/rocketmq-javaapi/rocketmq-javaapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-rocketmq-code/springboot-rocketmq/springboot-rocketmq.iml" filepath="$PROJECT_DIR$/mq-rocketmq-code/springboot-rocketmq/springboot-rocketmq.iml" />
+    </modules>
+  </component>
+</project>
