@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-dubbo-sample-consumer" />
+        <module name="dubbo-client-sample" />
+        <module name="spring-boot-dubbo-sample-api" />
+        <module name="spring-cloud-dubbo-sample-provider" />
+        <module name="spring-boot-dubbo-sample-provider" />
+        <module name="dubbo-server" />
+        <module name="dubbo-server-api" />
+        <module name="spring-cloud-dubbo-sample-api" />
+        <module name="spring-cloud-dubbo-sample-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo-client-sample" target="1.7" />
+      <module name="dubbo-server" target="1.7" />
+      <module name="dubbo-server-api" target="1.7" />
+      <module name="dubbo-server-sample" target="1.7" />
+      <module name="spring-boot-dubbo-example" target="1.5" />
+      <module name="spring-boot-dubbo-sample-api" target="1.7" />
+      <module name="spring-boot-dubbo-sample-consumer" target="1.8" />
+      <module name="spring-boot-dubbo-sample-provider" target="1.8" />
+      <module name="spring-cloud-dubbo-example" target="1.5" />
+      <module name="spring-cloud-dubbo-sample-api" target="1.7" />
+      <module name="spring-cloud-dubbo-sample-consumer" target="1.8" />
+      <module name="spring-cloud-dubbo-sample-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
