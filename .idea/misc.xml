@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/rocketmq-code/rocketmq-javaapi/pom.xml" />
         <option value="$PROJECT_DIR$/mq-rocketmq-code/rocketmq-javaapi/pom.xml" />
         <option value="$PROJECT_DIR$/mq-rocketmq-code/springboot-rocketmq/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-dubbo-code/spring-cloud-dubbo-example/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-dubbo-code/spring-boot-dubbo-example/pom.xml" />
       </list>
     </option>
   </component>

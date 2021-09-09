@@ -6,12 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="rocketmq-javaapi" />
+        <module name="spring-boot-dubbo-sample-consumer" />
+        <module name="spring-boot-dubbo-sample-api" />
+        <module name="spring-cloud-dubbo-sample-provider" />
         <module name="springboot-rocketmq" />
+        <module name="spring-boot-dubbo-sample-provider" />
+        <module name="rocketmq-javaapi" />
+        <module name="spring-cloud-dubbo-sample-api" />
+        <module name="spring-cloud-dubbo-sample-consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="rocketmq-javaapi" target="8" />
+      <module name="spring-boot-dubbo-example" target="1.5" />
+      <module name="spring-boot-dubbo-sample-api" target="1.7" />
+      <module name="spring-boot-dubbo-sample-consumer" target="1.8" />
+      <module name="spring-boot-dubbo-sample-provider" target="1.8" />
+      <module name="spring-cloud-dubbo-example" target="1.5" />
+      <module name="spring-cloud-dubbo-sample-api" target="1.7" />
+      <module name="spring-cloud-dubbo-sample-consumer" target="1.8" />
+      <module name="spring-cloud-dubbo-sample-provider" target="1.8" />
       <module name="springboot-rocketmq" target="1.8" />
     </bytecodeTargetLevel>
   </component>

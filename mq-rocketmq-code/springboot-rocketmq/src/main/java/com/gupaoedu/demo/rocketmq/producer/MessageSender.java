@@ -24,6 +24,7 @@ public class MessageSender {
          * 参数2:  消息体 可以为一个对象
          * 参数3： 超时时间 毫秒
          */
+
         SendResult result= rocketMQTemplate.syncSend("springboot-topic:tag","这是一条同步消息",10000);
         System.out.println(result);
     }

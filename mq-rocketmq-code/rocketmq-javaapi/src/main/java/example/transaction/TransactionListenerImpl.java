@@ -20,6 +20,8 @@ import org.apache.rocketmq.client.producer.LocalTransactionState;
 import org.apache.rocketmq.client.producer.TransactionListener;
 import org.apache.rocketmq.common.message.Message;
 import org.apache.rocketmq.common.message.MessageExt;
+import org.apache.rocketmq.spring.annotation.RocketMQTransactionListener;
+import org.springframework.stereotype.Component;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -51,15 +53,18 @@ public class TransactionListenerImpl implements TransactionListener {
      */
     @Override
     public LocalTransactionState checkLocalTransaction(MessageExt msg) {
-        System.out.println("有人没有报告事务执行状态，主动检查！");
+        System.out.println("主动检查,"+msg.getTransactionId());
         Integer status = localTrans.get(msg.getTransactionId());
         if (null != status) {
             switch (status) {
                 case 0:
+                    System.out.println("主动检查，未知！"+msg.getTransactionId());
                     return LocalTransactionState.UNKNOW;
                 case 1:
+                    System.out.println("主动检查，成功！"+msg.getTransactionId());
                     return LocalTransactionState.COMMIT_MESSAGE;
                 case 2:
+                    System.out.println("主动检查，失败！"+msg.getTransactionId());
                     return LocalTransactionState.ROLLBACK_MESSAGE;
                 default:
                     return LocalTransactionState.COMMIT_MESSAGE;

@@ -19,7 +19,7 @@ public class DelayConsumer {
         DefaultMQPushConsumer consumer = new DefaultMQPushConsumer("my_test_consumer_group");
 
         // Specify name server addresses.
-        consumer.setNamesrvAddr("192.168.44.163:9876;192.168.44.164:9876");
+        consumer.setNamesrvAddr("47.117.125.134:9876");
         consumer.setMessageModel(MessageModel.BROADCASTING);
 
         // Subscribe one more more topics to consume.

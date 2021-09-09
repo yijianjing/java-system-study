@@ -4,6 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java-system-study.iml" filepath="$PROJECT_DIR$/.idea/java-system-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/mq-rocketmq-code/rocketmq-javaapi/rocketmq-javaapi.iml" filepath="$PROJECT_DIR$/mq-rocketmq-code/rocketmq-javaapi/rocketmq-javaapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-dubbo-code/spring-boot-dubbo-example/spring-boot-dubbo-example.iml" filepath="$PROJECT_DIR$/spring-dubbo-code/spring-boot-dubbo-example/spring-boot-dubbo-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-dubbo-code/spring-boot-dubbo-example/spring-boot-dubbo-sample-api/spring-boot-dubbo-sample-api.iml" filepath="$PROJECT_DIR$/spring-dubbo-code/spring-boot-dubbo-example/spring-boot-dubbo-sample-api/spring-boot-dubbo-sample-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-dubbo-code/spring-boot-dubbo-example/spring-boot-dubbo-sample-consumer/spring-boot-dubbo-sample-consumer.iml" filepath="$PROJECT_DIR$/spring-dubbo-code/spring-boot-dubbo-example/spring-boot-dubbo-sample-consumer/spring-boot-dubbo-sample-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-dubbo-code/spring-boot-dubbo-example/spring-boot-dubbo-sample-provider/spring-boot-dubbo-sample-provider.iml" filepath="$PROJECT_DIR$/spring-dubbo-code/spring-boot-dubbo-example/spring-boot-dubbo-sample-provider/spring-boot-dubbo-sample-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-dubbo-code/spring-cloud-dubbo-example/spring-cloud-dubbo-example.iml" filepath="$PROJECT_DIR$/spring-dubbo-code/spring-cloud-dubbo-example/spring-cloud-dubbo-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-dubbo-code/spring-cloud-dubbo-example/spring-cloud-dubbo-sample-api/spring-cloud-dubbo-sample-api.iml" filepath="$PROJECT_DIR$/spring-dubbo-code/spring-cloud-dubbo-example/spring-cloud-dubbo-sample-api/spring-cloud-dubbo-sample-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-dubbo-code/spring-cloud-dubbo-example/spring-cloud-dubbo-sample-consumer/spring-cloud-dubbo-sample-consumer.iml" filepath="$PROJECT_DIR$/spring-dubbo-code/spring-cloud-dubbo-example/spring-cloud-dubbo-sample-consumer/spring-cloud-dubbo-sample-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-dubbo-code/spring-cloud-dubbo-example/spring-cloud-dubbo-sample-provider/spring-cloud-dubbo-sample-provider.iml" filepath="$PROJECT_DIR$/spring-dubbo-code/spring-cloud-dubbo-example/spring-cloud-dubbo-sample-provider/spring-cloud-dubbo-sample-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/mq-rocketmq-code/springboot-rocketmq/springboot-rocketmq.iml" filepath="$PROJECT_DIR$/mq-rocketmq-code/springboot-rocketmq/springboot-rocketmq.iml" />
     </modules>
   </component>

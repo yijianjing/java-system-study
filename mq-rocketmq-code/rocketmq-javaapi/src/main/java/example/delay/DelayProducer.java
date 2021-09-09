@@ -28,7 +28,7 @@ public class DelayProducer {
     public static void main(String[] args) throws MQClientException, InterruptedException {
 
         DefaultMQProducer producer = new DefaultMQProducer("ProducerGroupName");
-        producer.setNamesrvAddr("192.168.44.163:9876;192.168.44.164:9876");
+        producer.setNamesrvAddr("47.117.125.134:9876");
         producer.start();
 
         for (int i = 0; i < 2; i++) {

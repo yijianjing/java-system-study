@@ -34,7 +34,7 @@ public class TransactionProducer {
     public static void main(String[] args) throws MQClientException, InterruptedException {
         TransactionListener transactionListener = new TransactionListenerImpl();
         TransactionMQProducer producer = new TransactionMQProducer("transaction_test_group_name");
-        producer.setNamesrvAddr("192.168.44.163:9876;192.168.44.164:9876");
+        producer.setNamesrvAddr("47.117.125.134:9876");
         ExecutorService executorService = new ThreadPoolExecutor(2, 5, 100, TimeUnit.SECONDS, new ArrayBlockingQueue<Runnable>(2000), new ThreadFactory() {
             @Override
             public Thread newThread(Runnable r) {
