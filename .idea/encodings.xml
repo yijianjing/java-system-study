@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-amqp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-project/springboot-rabbit-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-project/springboot-rabbit-producer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mq-rocketmq-code/springboot-rocketmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-provider" charset="UTF-8" />

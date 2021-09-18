@@ -6,21 +6,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-dubbo-sample-consumer" />
+        <module name="gupaoedu-vip-spring-rabbitmq" />
+        <module name="nacos-dubbo-provider" />
+        <module name="springboot-rabbit-consumer" />
         <module name="nacos-dubbo-provider-api" />
+        <module name="spring-cloud-dubbo-sample-consumer" />
+        <module name="spring-cloud-dubbo-sample-api" />
+        <module name="spring-boot-dubbo-sample-consumer" />
+        <module name="gupaoedu-vip-springboot-demo" />
+        <module name="spring-cloud-nacos-dubbo-consumer" />
+        <module name="springboot-nacos" />
+        <module name="springboot-rabbit-producer" />
+        <module name="gupaoedu-vip-springboot-amqp" />
         <module name="spring-boot-dubbo-sample-api" />
+        <module name="gupaoedu-vip-rabbitmq-javaapi" />
         <module name="spring-cloud-dubbo-sample-provider" />
         <module name="springboot-rocketmq" />
-        <module name="rocketmq-javaapi" />
-        <module name="springboot-nacos" />
-        <module name="nacos-dubbo-provider" />
-        <module name="spring-cloud-dubbo-sample-api" />
-        <module name="spring-cloud-dubbo-sample-consumer" />
-        <module name="spring-cloud-nacos-dubbo-consumer" />
         <module name="spring-boot-dubbo-sample-provider" />
+        <module name="rocketmq-javaapi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="gupaoedu-vip-rabbitmq-javaapi" target="1.5" />
+      <module name="gupaoedu-vip-spring-rabbitmq" target="1.5" />
+      <module name="gupaoedu-vip-springboot-amqp" target="1.8" />
+      <module name="gupaoedu-vip-springboot-demo" target="1.8" />
+      <module name="gupaoedu-vip-springboot-project" target="1.5" />
       <module name="nacos-dubbo-provider" target="1.8" />
       <module name="nacos-dubbo-provider-api" target="1.7" />
       <module name="rocketmq-javaapi" target="8" />
@@ -35,7 +46,17 @@
       <module name="spring-cloud-nacos-dubbo-consumer" target="1.8" />
       <module name="spring-cloud-nacos-dubbo-provider" target="1.7" />
       <module name="springboot-nacos" target="1.8" />
+      <module name="springboot-rabbit-consumer" target="1.8" />
+      <module name="springboot-rabbit-producer" target="1.8" />
       <module name="springboot-rocketmq" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gupaoedu-vip-springboot-amqp" options="-parameters" />
+      <module name="gupaoedu-vip-springboot-demo" options="-parameters" />
+      <module name="springboot-rabbit-consumer" options="-parameters" />
+      <module name="springboot-rabbit-producer" options="-parameters" />
+    </option>
   </component>
 </project>

@@ -12,6 +12,11 @@
         <option value="$PROJECT_DIR$/spring-boot-nacos/springboot-nacos/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-provider/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-rabbitmq-javaapi/pom.xml" />
+        <option value="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-spring-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-project/pom.xml" />
+        <option value="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-amqp/pom.xml" />
       </list>
     </option>
   </component>

@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-rabbitmq-javaapi/gupaoedu-vip-rabbitmq-javaapi.iml" filepath="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-rabbitmq-javaapi/gupaoedu-vip-rabbitmq-javaapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-spring-rabbitmq/gupaoedu-vip-spring-rabbitmq.iml" filepath="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-spring-rabbitmq/gupaoedu-vip-spring-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-amqp/gupaoedu-vip-springboot-amqp.iml" filepath="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-amqp/gupaoedu-vip-springboot-amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-demo/gupaoedu-vip-springboot-demo.iml" filepath="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-demo/gupaoedu-vip-springboot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-project/gupaoedu-vip-springboot-project.iml" filepath="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-project/gupaoedu-vip-springboot-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-system-study.iml" filepath="$PROJECT_DIR$/.idea/java-system-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-provider/nacos-dubbo-provider/nacos-dubbo-provider.iml" filepath="$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-provider/nacos-dubbo-provider/nacos-dubbo-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-provider/nacos-dubbo-provider-api/nacos-dubbo-provider-api.iml" filepath="$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-provider/nacos-dubbo-provider-api/nacos-dubbo-provider-api.iml" />
@@ -17,6 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-consumer/spring-cloud-nacos-dubbo-consumer.iml" filepath="$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-consumer/spring-cloud-nacos-dubbo-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-provider/spring-cloud-nacos-dubbo-provider.iml" filepath="$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-provider/spring-cloud-nacos-dubbo-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-nacos/springboot-nacos/springboot-nacos.iml" filepath="$PROJECT_DIR$/spring-boot-nacos/springboot-nacos/springboot-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-project/springboot-rabbit-consumer/springboot-rabbit-consumer.iml" filepath="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-project/springboot-rabbit-consumer/springboot-rabbit-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-project/springboot-rabbit-producer/springboot-rabbit-producer.iml" filepath="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-project/springboot-rabbit-producer/springboot-rabbit-producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/mq-rocketmq-code/springboot-rocketmq/springboot-rocketmq.iml" filepath="$PROJECT_DIR$/mq-rocketmq-code/springboot-rocketmq/springboot-rocketmq.iml" />
     </modules>
   </component>
