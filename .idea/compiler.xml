@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="kafka-api" />
         <module name="gupaoedu-vip-spring-rabbitmq" />
         <module name="nacos-dubbo-provider" />
         <module name="springboot-rabbit-consumer" />
@@ -18,6 +19,7 @@
         <module name="springboot-nacos" />
         <module name="springboot-rabbit-producer" />
         <module name="gupaoedu-vip-springboot-amqp" />
+        <module name="kafka-springboot" />
         <module name="spring-boot-dubbo-sample-api" />
         <module name="gupaoedu-vip-rabbitmq-javaapi" />
         <module name="spring-cloud-dubbo-sample-provider" />
@@ -32,6 +34,8 @@
       <module name="gupaoedu-vip-springboot-amqp" target="1.8" />
       <module name="gupaoedu-vip-springboot-demo" target="1.8" />
       <module name="gupaoedu-vip-springboot-project" target="1.5" />
+      <module name="kafka-api" target="8" />
+      <module name="kafka-springboot" target="1.8" />
       <module name="nacos-dubbo-provider" target="1.8" />
       <module name="nacos-dubbo-provider-api" target="1.7" />
       <module name="rocketmq-javaapi" target="8" />

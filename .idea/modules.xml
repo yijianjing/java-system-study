@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-demo/gupaoedu-vip-springboot-demo.iml" filepath="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-demo/gupaoedu-vip-springboot-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-project/gupaoedu-vip-springboot-project.iml" filepath="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-project/gupaoedu-vip-springboot-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-system-study.iml" filepath="$PROJECT_DIR$/.idea/java-system-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-kafka-code/kafka-api/kafka-api.iml" filepath="$PROJECT_DIR$/mq-kafka-code/kafka-api/kafka-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-kafka-code/kafka-springboot/kafka-springboot.iml" filepath="$PROJECT_DIR$/mq-kafka-code/kafka-springboot/kafka-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-provider/nacos-dubbo-provider/nacos-dubbo-provider.iml" filepath="$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-provider/nacos-dubbo-provider/nacos-dubbo-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-provider/nacos-dubbo-provider-api/nacos-dubbo-provider-api.iml" filepath="$PROJECT_DIR$/spring-boot-nacos/spring-cloud-nacos-dubbo-provider/nacos-dubbo-provider-api/nacos-dubbo-provider-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/mq-rocketmq-code/rocketmq-javaapi/rocketmq-javaapi.iml" filepath="$PROJECT_DIR$/mq-rocketmq-code/rocketmq-javaapi/rocketmq-javaapi.iml" />

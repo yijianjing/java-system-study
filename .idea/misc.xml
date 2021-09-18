@@ -17,6 +17,8 @@
         <option value="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-project/pom.xml" />
         <option value="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-demo/pom.xml" />
         <option value="$PROJECT_DIR$/mq-rabbitmq-code/gupaoedu-vip-springboot-amqp/pom.xml" />
+        <option value="$PROJECT_DIR$/mq-kafka-code/kafka-api/pom.xml" />
+        <option value="$PROJECT_DIR$/mq-kafka-code/kafka-springboot/pom.xml" />
       </list>
     </option>
   </component>
