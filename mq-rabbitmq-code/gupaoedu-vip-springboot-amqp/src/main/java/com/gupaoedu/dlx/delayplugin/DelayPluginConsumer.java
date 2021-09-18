@@ -15,7 +15,7 @@ import java.util.Map;
 public class DelayPluginConsumer {
     public static void main(String[] args) throws Exception {
         ConnectionFactory factory = new ConnectionFactory();
-        factory.setUri("amqp://guest:guest@192.168.8.133:5672");
+        factory.setUri("amqp://guest:guest@120.48.23.107:5672");
         // 建立连接
         Connection conn = factory.newConnection();
         // 创建消息通道

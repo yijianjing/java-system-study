@@ -22,7 +22,7 @@ public class DelayPluginConfig {
     @Bean
     public ConnectionFactory connectionFactory() throws Exception {
         CachingConnectionFactory cachingConnectionFactory = new CachingConnectionFactory();
-        cachingConnectionFactory.setUri("amqp://guest:guest@192.168.8.133:5672");
+        cachingConnectionFactory.setUri("amqp://guest:guest@120.48.23.107:5672");
         return cachingConnectionFactory;
     }
 
